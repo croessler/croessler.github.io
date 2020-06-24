@@ -11,6 +11,10 @@ A fictional character from the Discworld universe by Terry Pratchett. He is memb
 * Marries the richest gal in town.
 * Quite successful (see title list above).
 
+![Samuel Vimes by Paul Kidby](/picture/Samuel_Vimes.jpg)
+*Samuel Vimes as he appears in The Pratchett Portfolio, illustrated by Paul Kidby.*
+*Found in english Wikipedia, usage considered "Fair use".*
+
 
 In his words:
 > I'm not a natural killer! See this? See what it says? 
