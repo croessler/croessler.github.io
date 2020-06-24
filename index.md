@@ -22,4 +22,4 @@ ___
 
 *Samuel Vimes as he appears in The Pratchett Portfolio, illustrated by Paul Kidby.*
 *Found in english Wikipedia, usage considered "Fair use".*
-![Samuel Vimes by Paul Kidby](https://upload.wikimedia.org/wikipedia/en/7/75/Samuel_Vimes.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/en/7/75/Samuel_Vimes.jpg">
